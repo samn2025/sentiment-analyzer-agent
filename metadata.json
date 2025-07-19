@@ -1,0 +1,5 @@
+{
+  "name": "Reddit Sentiment Analyzer",
+  "description": "Analyzes comment sentiment from multiple Reddit posts. Provides filterable per-post and aggregated views with sentiment breakdowns, comment totals, and keyword word clouds. Allows downloading detailed results as a CSV file.",
+  "requestFramePermissions": []
+}
